@@ -12,7 +12,6 @@ const Table = ({ socios, eliminarSocio }) => {
       <table className="table">
         <thead>
           <tr>
-            <th>id</th>
             <th>nombre</th>
             <th>correo</th>
             <th>edad</th>
